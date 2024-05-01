@@ -1,4 +1,4 @@
-# lfind
+# lfind-isr-project
 
 
 `lfind` is a command line tool built entirely in java that leverages [Apache Lucene](https://lucene.apache.org/) for efficient searching across files and directories in the file system.
@@ -7,8 +7,8 @@
 
 [Youtube Link](https://youtu.be/7soDBlhvogY)  
 [Google Slides](https://docs.google.com/presentation/d/1jsJ0dmrn3akUqSMIImU1bvoxlBTbZ-o4UTDCaLNB8B8/edit?usp=sharing)  
-[Github Link](https://github.com/vva2/lfind)  
-[Website](https://vva2.github.io/lfind/)
+[Github Link](https://github.com/vva2/lfind-isr-project)  
+[Website](https://vva2.github.io/lfind-isr-project/)
 
 ## Features
 
