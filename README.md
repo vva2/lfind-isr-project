@@ -10,6 +10,10 @@
 [Github Link](https://github.com/vva2/lfind-isr-project)  
 [Website](https://vva2.github.io/lfind-isr-project/)
 
+## Demo Video
+
+![demo.gif](demo.gif)
+
 ## Features
 
 - **Interactive and Direct Command Modes**: lfind supports both interactive mode for iterative search queries and direct command mode for quick one-time searches.
