@@ -10,9 +10,14 @@
 [Github Link](https://github.com/vva2/lfind-isr-project)  
 [Website](https://vva2.github.io/lfind-isr-project/)
 
-## Demo Video
+## Demo
 
-![demo.gif](demo.gif)
+[Youtube Demo Link](https://youtu.be/CLQmPdNfUFk)
+
+![img.png](images/img.png)
+![img_2.png](images/img_2.png)
+![img_3.png](images/img_3.png)
+![img_4.png](images/img_4.png)
 
 ## Features
 
@@ -26,7 +31,7 @@
 
 ## Process Flow
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 ## Installation
 
